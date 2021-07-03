@@ -3,7 +3,7 @@
 
 # Project link
 
-<a href="https://mithesh14.github.io/Github-profile/">Dictionary</a>
+<a href="https://mithesh14.github.io/Dictionary-website/">Dictionary</a>
 
 # Screenshots 
 
